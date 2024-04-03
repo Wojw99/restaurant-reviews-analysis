@@ -1,6 +1,8 @@
 # Restaurant reviews analysis
 In the conclusions below, I assumed that "positive" reviews will be assiged to rating higher than or equal to 3, and "negative" reviews to lower than that. And this is because machine learning algorithms performed best at these intervals.
 
+It's my study project for gaining new knowledge and polishing my skills. 
+
 There is the used dataset: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data
 👍
  
