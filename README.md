@@ -3,9 +3,6 @@ In the conclusions below, I assumed that "positive" reviews will be assiged to r
 
 It's my study project for gaining new knowledge and polishing my skills. 
 
-There is the used dataset: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data
-👍
- 
 ### Interesting facts
 1. There are more positive opinions than negative ones. **75%** reviews was bigger or equal to rating 3.
 2. Usually users used **24 to 57** words for review. The longest one had **9622** words.
